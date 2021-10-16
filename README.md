@@ -17,11 +17,11 @@ Fediverse: [@nafu_at@nijimiss.moe](https://nijimiss.moe/@nafu_at)
 
 ### Hi there 👋
 
-I create applications using Java as a hobby.  
-I'm mainly working on Spigot plugins and Discord related stuff.  
-I am also interested in developing Android applications.  
-I am currently studying programming using C# related to Unity.  
-I'm not an engineer by trade!
+I make applications using Java as a hobby.  
+I'm mainly working on Spigot plugins and Discord-related applications.  
+I'm also interested in developing Android applications.  
+Recently, I've been studying C# programming related to Unity.  
+I' m not an engineer by profession.
 
 ### 📫 How to reach me:
 You can contact me by sending an email to the address in my profile,  
