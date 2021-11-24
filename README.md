@@ -1,3 +1,5 @@
+[![nafu-at's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafu-at)](https://github.com/anuraghazra/github-readme-stats)
+
 ### やあ。👋
 趣味でJavaを使ったアプリケーションを作っています。  
 主にSpigotのプラグインやDiscord関連のものを作っています。  
