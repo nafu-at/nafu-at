@@ -27,7 +27,7 @@ I' m not an engineer by profession.
 
 ### 📫 How to reach me:
 You can contact me by sending an email to the address in my profile,  
-or by using the repository feature of the relevant application.  
+or by using the repository feature of the relevant project.  
 I am a native speaker of Japanese and am not fluent in any other language.
 
 Please note that in many cases, translations have been used and some expressions may not be correct.
