@@ -32,6 +32,11 @@ I am a native speaker of Japanese and am not fluent in any other language.
 
 Please note that in many cases, translations have been used and some expressions may not be correct.
 
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nafu-at&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 **nafu-at/nafu-at** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
